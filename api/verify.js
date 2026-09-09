@@ -9,7 +9,7 @@ import { kv } from '@vercel/kv';
  *   1) TFS-HR4-A7K9M2X4Q8W1
  *   2) TFS-HR4-P3N6R8Y2L5Z0
  */
-const VALID_KEYS = ["8JP-200U-OLI"];
+const VALID_KEYS = ["G-4-X-9-B-2-M-7-R-5"];
 
 export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
